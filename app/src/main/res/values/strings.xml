@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="title">Judul</string>
+    <string name="extra_note">extra_note</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="note">My Note</string>
+    <string name="nama_imam_hadid_guanwan_ninformatika_n2011019">Nama: Imam Hadid Guanwan\nInformatika\n2011019</string>
+    <string name="logo_gaming">Logo Gaming</string>
+    <string name="photo_profile">Photo Profile</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_induk_mahasiswa">Nomor Induk Mahasiswa</string>
+
+    <string-array name="name">
+        <item>IMAM HADID GUNAWAN</item> // 1
+        <item>ADHITYA WIRAYUDHA</item> // 2
+        <item>ADITYA PRATAMA W</item> // 3
+        <item>ALIEF SAH NUR ABDUL M</item> // 4
+        <item>FEBRY RISTYANTO</item> // 5
+        <item>FIRDAUS RIFKY AZANI A</item> // 6
+        <item>HAMID</item> // 7
+        <item>HANIF HIBATUL WAFI</item> // 8
+        <item>ILHAM PUTRA WICHAKS</item> // 9
+        <item>JODY HENDRIAN</item> // 10
+        <item>M. ANGGA SETIAWAN</item> // 11
+        <item>MEDAD MORDEKHAI</item> // 12
+        <item>MUHAMMAD FAIZAL R</item> // 13
+        <item>MUHAMMAD GERALDO</item> // 14
+        <item>MUHAMMAD KHAIRI K</item> // 15
+        <item>MUHAMMAD RAFI ADJIE</item> // 16
+        <item>MUHAMMAD SAMSUL M</item> // 17
+        <item>NURLISDA</item> // 18
+        <item>RAJASA MARDIVA</item> // 19
+        <item>RAYKAL CAESAR ANUGR</item> // 20
+        <item>RIZKY FEBRYAN NAINGG</item> // 21
+        <item>SIRATULLAH SAPUTRA</item> // 22
+        <item>WRAT SASONGKO</item> // 23
+        <item>YANDY ILYA PRATAMA</item> // 24
+        <item>ZHIKRY ADRIANUR</item> // 25
+    </string-array>
+
+    <string-array name="nim">
+        <item>2011019</item> // 1
+        <item>2011010</item> // 2
+        <item>2011081</item> // 3
+        <item>1611134</item> // 4
+        <item>2011108</item> // 5
+        <item>2011087</item> // 6
+        <item>2011097</item> // 7
+        <item>2011099</item> // 8
+        <item>2011086</item> // 9
+        <item>2011039</item> // 10
+        <item>2011113</item> // 11
+        <item>2011096</item> // 12
+        <item>2011049</item> // 13
+        <item>2011110</item> // 14
+        <item>2011052</item> // 15
+        <item>2011034</item> // 16
+        <item>2011092</item>  // 17
+        <item>2011094</item> // 18
+        <item>2011046</item> // 19
+        <item>2011068</item> // 20
+        <item>2011102</item> // 21
+        <item>2111037</item> // 22
+        <item>1811278</item> // 23
+        <item>2011115</item> // 24
+        <item>2011115</item> // 25
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/hadid</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/wanita</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+    </array>
+</resources>
